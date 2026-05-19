@@ -1,4 +1,4 @@
-name: Source Movement Mods
+name: Source Movement Mod
 
 on: [push, pull_request]
 
